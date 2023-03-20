@@ -7,5 +7,5 @@
 # Entrée : Aucune
 # Sortie : Date courante au format hh:mm:ss jj/mm/aa
 
-printf -v date '%(%H:%M:%S %d:%m:%Y)T\n'
+printf -v date '%(%H:%M:%S %d/%m/%Y)T\n'
 echo $date
