@@ -1,6 +1,6 @@
 ##!/bin/bash
 
-# Script de dénombrage des paramètres
+# Script : Dénombrage les paramètres du script
 # Auteur : Y. Hamonic
 # Date de création : 20/03/2023
 
